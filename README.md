@@ -45,14 +45,32 @@ The dataset contains:
 ## 📁 Repository Structure
 
 ```
+## 📁 Repository Structure
+
+```text
 Suicide-Trends-Analysis-India
 │
-├── pythonproject.ipynb
-├── Suicide python project.pptx
 ├── README.md
-└── LICENSE
+├── LICENSE
+├── .gitignore
+├── requirements.txt
+├── Suicide_Trends_Analysis.ipynb
+├── Suicide_Trends_Analysis_Presentation.pptx
+└── images/
+    ├── education_analysis.png
+    ├── gender_analysis.png
+    └── yearly_trend.png
 ```
+## 📊 Project Visualizations
 
+### Education-wise Analysis
+![Education Analysis](images/education_analysis.png)
+
+### Gender-wise Analysis
+![Gender Analysis](images/gender_analysis.png)
+
+### Year-wise Suicide Trend
+![Year-wise Trend](images/yearly_trend.png)
 ---
 
 ## 🚀 Future Scope
